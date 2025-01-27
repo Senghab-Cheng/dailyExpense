@@ -1,0 +1,7 @@
+{
+    "animations.CursorAnimation": false,
+    "files.associations": {
+        "*.java": "java",
+        "iostream": "cpp"
+    }
+}
