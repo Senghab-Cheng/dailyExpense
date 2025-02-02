@@ -1,7 +1,9 @@
 {
     "animations.CursorAnimation": false,
     "files.associations": {
+        "*.embeddedhtml": "html",
         "*.java": "java",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
